@@ -12,7 +12,7 @@ hero:
   after_title: "I am <strong>Cyber Security Processional</strong>"
   description: "폴리텍 대학 강서캠퍼스 사이버 보안과 2학년입니다"
   button1:
-    label: "이력서 다운받기기"
+    label: "이력서 다운받기"
     link: "#"
   button2:
     label: "My Skills"
@@ -105,16 +105,16 @@ resume:
   bg_title: "History"
 
   education:
-    title: "Education"
+    title: "학력"
     items:
-      - name: "CoderHouse Courses"
-        subname: "Backend Programming"
-        period: "2014 - 2016"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "전남대학교"
+        subname: "조선해양공학"
+        period: "2021 - 2022"
+        text: "전남대학교 조선해양공학 3학년 중퇴"
 
-      - name: "Lviv National Academy of Arts"
-        subname: "Faculty of Design"
-        period: "2012 - 2014"
+      - name: "동국대학교 DUICA"
+        subname: "컴퓨터공학학"
+        period: "2021 - 2022"
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
       - name: "IT Future"
