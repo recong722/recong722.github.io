@@ -1,18 +1,18 @@
 [
   
     {
-      "title"    : "By spite about do of do allow",
-      "category" : "Music",
-      "tags"     : "rock",
-      "url"      : "/recong722.github.io/music/2020/08/05/by-spite-about/",
-      "date"     : "2020-08-05 00:00:00 +0900"
+      "title"    : "정보 처리 기사",
+      "category" : "IT자격증",
+      "tags"     : "자격증",
+      "url"      : "/it/%EC%9E%90%EA%B2%A9%EC%A6%9D/2025/05/14/Engineer-Information-Processing/",
+      "date"     : "2025-05-14 00:00:00 +0900"
     } ,
   
     {
       "title"    : "By spite about do of do allow",
       "category" : "Music",
       "tags"     : "rock",
-      "url"      : "/music/2020/08/05/by-spite-about/",
+      "url"      : "/recong722.github.io/music/2020/08/05/by-spite-about/",
       "date"     : "2020-08-05 00:00:00 +0900"
     } ,
   
@@ -25,26 +25,10 @@
     } ,
   
     {
-      "title"    : "Two Before Arrow Not Relied",
-      "category" : "Design",
-      "tags"     : "code",
-      "url"      : "/design/2020/07/20/two-before-arrow/",
-      "date"     : "2020-07-20 00:00:00 +0900"
-    } ,
-  
-    {
       "title"    : "Design in Mobile Application",
       "category" : "Mobile",
       "tags"     : "app, mobile",
       "url"      : "/recong722.github.io/mobile/2020/07/05/design-in-mobile/",
-      "date"     : "2020-07-05 00:00:00 +0900"
-    } ,
-  
-    {
-      "title"    : "Design in Mobile Application",
-      "category" : "Mobile",
-      "tags"     : "app, mobile",
-      "url"      : "/mobile/2020/07/05/design-in-mobile/",
       "date"     : "2020-07-05 00:00:00 +0900"
     } ,
   
@@ -57,26 +41,10 @@
     } ,
   
     {
-      "title"    : "By spite about what to do",
-      "category" : "Design",
-      "tags"     : "Jekyll",
-      "url"      : "/design/2020/06/15/by-spite-what/",
-      "date"     : "2020-06-15 00:00:00 +0900"
-    } ,
-  
-    {
       "title"    : "Welcome to Jekyll!",
       "category" : "VideoMusic",
       "tags"     : "Jekyll",
       "url"      : "/recong722.github.io/video/music/2020/01/08/welcome-to-jekyll/",
-      "date"     : "2020-01-08 00:00:00 +0900"
-    } ,
-  
-    {
-      "title"    : "Welcome to Jekyll!",
-      "category" : "VideoMusic",
-      "tags"     : "Jekyll",
-      "url"      : "/video/music/2020/01/08/welcome-to-jekyll/",
       "date"     : "2020-01-08 00:00:00 +0900"
     } 
   
